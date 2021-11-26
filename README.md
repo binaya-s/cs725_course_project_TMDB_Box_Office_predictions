@@ -1,8 +1,8 @@
 # TMDB Box Office Prediction
 # CS725: Course Project
-Authors:
-A V Sai Pavan(213070007)
-Binaya Kumar Sahoo(213070009)
+Authors:<br>
+A V Sai Pavan(213070007)<br>
+Binaya Kumar Sahoo(213070009)<br>
 Shashwat Pathak(213070010)
 
 Instructions:
